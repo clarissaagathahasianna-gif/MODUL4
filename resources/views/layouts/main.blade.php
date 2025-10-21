@@ -25,7 +25,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2025 Praktikum Laravel - Nama Anda</p>
+    <p>&copy; 2025 Praktikum Laravel - Clarissa Agatha</p>
 </footer>
 
 </body>
